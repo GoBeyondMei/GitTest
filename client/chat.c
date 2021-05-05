@@ -181,5 +181,6 @@ void enterChat(User *user , int sockfd)
 	}//while
 	//close(sockfd);
 }
-
+//asf
+//asfaa
 
